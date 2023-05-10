@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pro",
+				"products"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.php",
+			"settings":
+			{
+				"buffer_size": 1823,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 488.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insat",
+				"Install Package Control"
+			]
+		],
+		"width": 810.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/blog/server.sublime-project",
+		"/C/Users/João Silva/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp64/www/blog/public/index.php",
+		"/C/Users/João Silva/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp64/www/blog/app/Http/Controllers/CategorieController.php",
+		"/C/wamp64/www/blog/app/Http/Controllers/ProductsController.php",
+		"/C/wamp64/www/blog/resources/views/layouts/app.blade.php",
+		"/C/wamp64/www/blog/app/Product.php",
+		"/C/wamp64/www/blog/resources/views/product/create.blade.php",
+		"/C/wamp64/www/blog/resources/views/welcome.blade.php",
+		"/C/wamp64/www/blog/app/ProductCategorie.php",
+		"/C/wamp64/www/blog/bootstrap/app.php",
+		"/C/wamp64/www/blog/config/app.php",
+		"/C/wamp64/www/blog/public/css/app.css",
+		"/C/wamp64/www/blog/database/migrations/2018_03_02_121821_create_product_categories_table.php",
+		"/C/wamp64/www/blog/database/migrations/2018_03_02_121245_create_products_table.php",
+		"/C/wamp64/www/blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/blog/database/factories/UserFactory.php",
+		"/C/wamp64/www/blog/resources/views/mypage.blade.php",
+		"/C/wamp64/www/blog/routes/web.php",
+		"/C/wamp64/www/blog/.env",
+		"/C/wamp64/www/blog/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/blog/app/Http/Controllers/Auth/LoginController.php",
+		"/C/wamp64/www/teste/.env",
+		"/C/wamp64/www/teste/routes/web.php",
+		"/C/wamp64/wampmanager.conf",
+		"/C/wamp64/www/index.php",
+		"/C/Users/João Silva/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/João Silva/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xdebug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

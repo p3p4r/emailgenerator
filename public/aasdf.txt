@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <style type="text/css">
+    @import  url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+    </style>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+<![endif]-->
+</head>
+
+<body>
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center">
+
+                <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td align="left">
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="height:20px;font-size:0;">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="height:20px;color:#16354f;font-weight:300;font-size:12px;text-align:right;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';">
+                                            If you are unable to see the message below, <a style="color:#5dbac0;text-decoration:none;" target="_blank" href="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/">click here to view</a>.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td width="640" valign="top" style="width:640px;font-size:0;">
+                                        <a href="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/" target="_blank">
+                                            <img width="640" style="display:block !important;" border="0" src="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/header.jpg" alt="Friday Five@5" />
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="640" valign="top" style="width:640px;text-align:left;background:#ffffff;font-weight:300;color:#333333;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-size:16px;padding-left:65px;padding-right:65px;padding-bottom:0px;padding-top:0px;">
+                                        
+                                        <p>summarysummarysummarysummarysummarysummary</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" width="640" height="45" style="height:45px;font-size:0;">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                                            <div class="ContentContainer" style="word-break: break-all;">
+                                <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+
+                                         <td width="352" valign="top" style="width:352px;padding-left:32px;">
+                                            <div style="text-align:left;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-size:36px;color:#7e297c;font-weight:300;mso-line-height-rule:exactly;line-height:45px;">
+                                                 Title                                            </div>
+
+                                            <div style="text-align:left;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-size:16px;color:#333333;font-weight:300;margin-top:25px;">
+                                                ConteudoConteudoConteudoConteudoConteudoConteudoConteudoConteudoConteudoConteudo                                            </div>
+
+                                            <div style="text-align:left;font-family:'Open Sans',Arial;mso-font-alt: 'Arial';font-size:16px;color:#333333;margin-top:25px;padding:0;">
+                                                <strong>
+                                                 signature                                             </strong>
+                                         </div>
+                                     </td>
+
+                                     <td width="288" height="288" valign="top" style="width:288px;height:288px;font-size:0;">
+                                        <a href="www.bbbb.pt" target="_blank">
+                                            <img width="288" height="288" style="display:block !important;" border="0" src="www.bbbb.pt" alt="#2" />
+                                        </a>
+                                    </td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" width="640" height="45" style="height:45px;font-size:0;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                                            <div class="ContentContainer" style="word-break: break-all;">
+                                <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+
+                                         <td width="352" valign="top" style="width:352px;padding-left:32px;">
+                                            <div style="text-align:left;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-size:36px;color:#7e297c;font-weight:300;mso-line-height-rule:exactly;line-height:45px;">
+                                                 TitleTitleTitleTitleTitleTitle                                            </div>
+
+                                            <div style="text-align:left;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-size:16px;color:#333333;font-weight:300;margin-top:25px;">
+                                                ConteudoConteudoConteudoConteudoConteudoConteudoConteudoConteudoConteudoConteudo                                            </div>
+
+                                            <div style="text-align:left;font-family:'Open Sans',Arial;mso-font-alt: 'Arial';font-size:16px;color:#333333;margin-top:25px;padding:0;">
+                                                <strong>
+                                                 Signarture                                             </strong>
+                                         </div>
+                                     </td>
+
+                                     <td width="288" height="288" valign="top" style="width:288px;height:288px;font-size:0;">
+                                        <a href="www.fgfgf.pt" target="_blank">
+                                            <img width="288" height="288" style="display:block !important;" border="0" src="www.fgfgf.pt" alt="#2" />
+                                        </a>
+                                    </td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="top" width="640" height="45" style="height:45px;font-size:0;">&nbsp;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" width="320" style="width:320px;font-size:0;text-align:right;padding-right:32px;">
+                                            <a href="https://www.linkedin.com/company/blue-infinity" target="_blank">
+                                                <img width="50" border="0" src="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/linkedin.jpg" alt="Linkedin" />
+                                            </a>
+                                            <a href="https://www.facebook.com/blueinfinityOfficialPage" target="_blank">
+                                                <img width="50" border="0" src="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/facebook.jpg" alt="Facebook" />
+                                            </a>
+                                            <a href="https://twitter.com/_blue_infinity" target="_blank">
+                                                <img width="50" border="0" src="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/twitter.jpg" alt="Twitter" />
+                                            </a>
+                                            <a href="https://www.youtube.com/c/infinitvblueinfinity" target="_blank">
+                                                <img width="50" border="0" src="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/youtube.jpg" alt="Youtube" />
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="width:640px;font-size:0;">
+                                            <a href="https://www.blue-infinity.com/" target="_blank">
+                                                <img width="640" border="0" src="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/logo.jpg" alt="blue-infinity" />
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="width:300px;padding-left:32px;">
+                                            <div style="text-align:left;font-family:'Open Sans',Arial;mso-font-alt: 'Arial';font-size:16px;color:#333333;margin-top:0px;">
+                                                <strong>Geneva Headquarters</strong><br />
+                                                <span style="font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-weight:300;">
+                                                    35 Route des Jeunes<br />
+                                                    1227 Geneva<br />
+                                                    Switzerland
+                                                </span>
+                                            </div>
+                                        </td>
+                                        <td valign="top" style="width:340px;padding-left:0px;padding-top:22px;">
+                                            <table width="100%" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td style="width:175px;color:#999999;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-weight:300;font-size:16px;">
+                                                        Phone (local)
+                                                    </td>
+                                                    <td style="color:#333333;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-weight:300;font-size:16px;">
+                                                        +41 58 307 7000
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="width:175px;color:#999999;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-weight:300;font-size:16px;">
+                                                        Phone (international)
+                                                    </td>
+                                                    <td style="color:#333333;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-weight:300;font-size:16px;">
+                                                        +800 307 70000
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="width:175px;color:#999999;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-weight:300;font-size:16px;">
+                                                        Email
+                                                    </td>
+                                                    <td style="color:#333333;font-family:'Open Sans Light','Open Sans',Arial;mso-font-alt: 'Arial';font-weight:300;font-size:16px;">
+                                                        <a href="mailto:info@b-i.com" style="text-decoration:none;color:#333333;">info@b-i.com</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="height:45px;font-size:0;">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="width:640px;font-size:0;">
+                                            <a href="https://www.blue-infinity.com/" target="_blank">
+                                                <img width="640" border="0" src="https://www.blue-infinity.com/newsletter/friday5/2017/8-september/footer.jpg" alt="blue-infinity" />
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="height:45px;font-size:0;">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <table width="640" style="width:640px;" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" style="color:#999999;text-align:right;font-family:'Open Sans',Arial;mso-font-alt: 'Arial';font-size:12px;padding-right:28px;">
+
+                                            We would dislike to see you go, but if you wish to do so, please
+
+                                            <a name="opt out_1" style="color:#409bc9;text-decoration:none;" xt="SPCUSTOMOPTOUT" href="#SPCUSTOMOPTOUT" target="_blank">
+                                                unsubscribe here.
+                                            </a>
+
+
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
