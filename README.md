@@ -1,18 +1,12 @@
-
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/p3p4r/emailgenerator/blob/master/LICENSE)
+  ![](https://github.com/p3p4r/emailgenerator/blob/5e5f9d8d5951fec0455b33035a1bb6a2893892d5/public/images/email_generator.gif)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
-    ![](https://github.com/p3p4r/emailgenerator/public/images/email_generator.gif)
-  </a>
-
-  <h3 align="center">Email Generator</h3>
-
+  <h2 align="center">Email Generator</h2>
   <p align="center">
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://p3p4r.github.io/emailgenerator/">View Demo</a>
   </p>
 </div>
 
