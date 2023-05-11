@@ -61,7 +61,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-It's ready to go , just fork and check it out.
+- Fork
+- run `Composer intall`
+- run `php artisan serve`
+- Should be working
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,8 +110,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/p3p4r
 [product-screenshot]: images/screenshot.png
-[Laravel.com]: [https://img.shields.io/badge/html-0769AD?style=for-the-badge&logo=jquery&logoColor=white](https://img.shields.io/badge/laravel-df7100?style=for-the-badge&logo=laravel&logoColor=white)
-[Laravel-url]: [https://www.w3schools.com/html/](https://laravel.com/)
+[Laravel.com]: https://img.shields.io/badge/html-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[Laravel-url]: https://www.w3schools.com/html/](https://laravel.com/
 [html.com]: https://img.shields.io/badge/html-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [html-url]: https://www.w3schools.com/html/
 [CSS.com]: https://img.shields.io/badge/css-0769AD?style=for-the-badge&logo=jquery&logoColor=white
